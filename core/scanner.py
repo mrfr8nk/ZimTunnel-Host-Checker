@@ -1,3 +1,8 @@
+# Hey There!
+# Tool is Stictly Educationation Purposes on Web Responses!
+# Made bY Me
+# Darrell Mucheri ( Mr Frank OFC )
+
 import subprocess, os, re, json, sys, time
 from utils import color
 
